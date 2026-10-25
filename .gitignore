@@ -1,0 +1,21 @@
+# Build outputs
+build/
+dist/
+build_macos.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Local project/video files
+*.bdx
+*.mp4
+*.mov
+*.m4v
+*.avi
